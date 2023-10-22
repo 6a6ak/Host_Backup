@@ -18,7 +18,7 @@ There are two ways to manually run the script:
 1. Open your web browser.
 2. Navigate to the URL where `backup.php` resides. For example:
     ```
-    http://yourdomain.com/path/to/backup_script.php
+    http://yourdomain.com/backup.php
     ```
 
 ### Method 2: Through the Terminal
